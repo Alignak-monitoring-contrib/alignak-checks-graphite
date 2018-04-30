@@ -1,7 +1,7 @@
-Alignak checks package for Elasticsearch
-========================================
+Alignak checks package for Carbon/Graphite
+==========================================
 
-*Checks pack for monitoring Graphite with the check_graphite script*
+*Checks pack for monitoring Graphite with the monitoring package (only TCP checks)*
 
 
 .. image:: https://badge.fury.io/py/alignak_checks_graphite.svg
