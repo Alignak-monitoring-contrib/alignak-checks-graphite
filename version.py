@@ -19,7 +19,7 @@ __pkg_name__ = u"alignak_checks_graphite"
 __checks_type__ = u"graphite"
 
 # Application manifest
-__version__ = u"1.0.0"
+__version__ = u"1.0.1"
 __author__ = u"Frédéric MOHIER"
 __author_email__ = u"frederic.mohier@alignak.net"
 __copyright__ = u"(c) 2015-2018 - %s" % __author__
